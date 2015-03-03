@@ -1,4 +1,4 @@
-analysis
+Analysis
 ========
 # read the column names
 # read the X data file
